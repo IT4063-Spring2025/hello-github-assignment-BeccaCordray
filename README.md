@@ -29,6 +29,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 **I struggled with:** (repeat as needed)
 - .
+- I struggled with getting started because I dont have experience with Github or Visual Studio Code.
 
 **I need the instructor to help me with:** (repeat as needed)
 - .
