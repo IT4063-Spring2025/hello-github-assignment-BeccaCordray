@@ -25,7 +25,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to push data to Github and learned about Github and Visual Studio code, as I have little to no experience with either.
 
 **I struggled with:** (repeat as needed)
 - .
