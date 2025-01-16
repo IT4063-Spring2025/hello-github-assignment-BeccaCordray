@@ -36,6 +36,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 - Fully understanding what we are doing in the labs and getting started in the software.
 
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 18 out of 20. Tis is because Although I spent time researching and did the best I could, I am still a bit confused and unsure that I did everything correctly. 
 
 
 ## 📚 References and Citations
