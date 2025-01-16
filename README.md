@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0Doy1t_w)
 # Hello, GitHub!
 
 ## 🔍 Overview
@@ -24,22 +25,27 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to push data to Github and learned about Github and Visual Studio code, as I have little to no experience with either.
 
 **I struggled with:** (repeat as needed)
 - .
+- I struggled with getting started because I dont have experience with Github or Visual Studio Code.
 
 **I need the instructor to help me with:** (repeat as needed)
 - .
+- Fully understanding what we are doing in the labs and getting started in the software.
 
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 18 out of 20. Tis is because Although I spent time researching and did the best I could, I am still a bit confused and unsure that I did everything correctly. 
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
+**I used the following links, books, and other resources in my work:** 
 - .
   
 **I received help from the following people:** (repeat as needed)
+**I received help from the following people:** 
 - . 
 
 ---
