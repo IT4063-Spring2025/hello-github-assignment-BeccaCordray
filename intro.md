@@ -1,2 +1,2 @@
 # My Name
-    Hello class, my name is Becca Cordray, and I am a student at the University of Cincinnati.
+    Hello class, my name is Rebecca Cordray, and I am a student at the University of Cincinnati.
