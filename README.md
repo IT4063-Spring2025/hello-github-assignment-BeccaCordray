@@ -45,6 +45,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 - .
   
 **I received help from the following people:** (repeat as needed)
+**I received help from the following people:** 
 - . 
 
 ---
